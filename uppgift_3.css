@@ -1,3 +1,12 @@
+h1 {
+    color: #000;
+}
+.specialclass {
+    color: khaki;
+}
+#specialid {
+    color: blue;
+}
 .yellow {
     color: yellow;
 }
